@@ -1,43 +1,33 @@
 (function () {
     const items = [
         {
-            "name": "Trapan 1",
-            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/DA001GM101.jpg",
+            "name": "Matrapik 1",
+            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/DHR165Z.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 2",
-            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/6413.jpg",
+            "name": "Matrapik 2",
+            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/DHR182RTJ.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 3",
-            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/DDF453SYE.jpg",
+            "name": "Matrapik 3",
+            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/DHR243RFJ.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 4",
-            "image": "https://ronixtools.com/img/media/products/2210/modeling-638064227236621993.webp",
+            "name": "Matrapik 4",
+            "image": "https://ronixtools.com/img/media/products/2632/modeling-637610885084174811.webp",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 5",
-            "image": "https://ronixtools.com/img/media/products/8014/modeling-637484222477821336.webp",
+            "name": "Matrapik 5",
+            "image": "https://ronixtools.com/img/media/products/2703/original-638082664326720668.webp",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 6",
-            "image": "https://ronixtools.com/img/media/products/8014/original-637627389635261608.webp",
-            "price": "L 23,000.00"
-        },
-        {
-            "name": "Trapan 7",
-            "image": "https://ronixtools.com/img/media/products/2210/original-637483821059703288.webp",
-            "price": "L 23,000.00"
-        },
-        {
-            "name": "Trapan 8",
-            "image": "https://shopic.mcmcclass.com/9180dfad6fe14b01932fd5bd1bfa2f45/20240626/image/1123254886167750523/YT-8277915.jpg",
+            "name": "Matrapik 6",
+            "image": "https://ronixtools.com/img/media/products/2701/original-637605741053724045.webp",
             "price": "L 23,000.00"
         },
     ]

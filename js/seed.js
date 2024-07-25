@@ -1,9 +1,9 @@
 (function () {
     const categories = [
         {
-            name: 'Vegla me bateri',
+            name: 'Vidator',
             image: './img/power_tools.svg',
-            htmlPage: "vegla_bateri.html"
+            htmlPage: "vidator.html"
         },
         {
             name: 'Trapan Vidues Elektrik',
@@ -11,64 +11,64 @@
             htmlPage: "trapan.html"
         },
         {
-            name: 'Matrapiket',
+            name: 'Zmerilues',
             image: './img/work_lights.svg',
+            htmlPage: "zmerilues.html"
+        },
+        {
+            name: 'Sharra',
+            image: './img/measuring_tools.svg',
+            htmlPage: "sharra.html"
+        },
+        {
+            name: 'Matrapik',
+            image: './img/safety_equipment.svg',
             htmlPage: "matrapik.html"
         },
         {
-            name: 'Elektroguret',
-            image: './img/measuring_tools.svg',
-            htmlPage: "elektrogur.html"
-        },
-        {
-            name: 'Aspiratoret',
-            image: './img/safety_equipment.svg',
-            htmlPage: "aspirator.html"
-        },
-        {
-            name: 'Vegla punim druri/metali',
+            name: 'Ajerngrohese',
             image: './img/tool_accessories.svg',
-            htmlPage: "vegla_dru_metal.html"
+            htmlPage: "ajerngrohese.html"
         },
         {
-            name: 'Vegla kopshtarie/pyje',
+            name: 'Punto',
             image: './img/tools_storage.svg',
-            htmlPage: "vegla_kopshtari.html"
+            htmlPage: "punto.html"
         },
         {
-            name: 'Vegla ndertimi',
+            name: 'Disk Preres',
             image: './img/lifting_equipment.svg',
-            htmlPage: "ndertim.html"
+            htmlPage: "disk_preres.html"
         },
         {
-            name: 'Saldatrice',
+            name: 'Rakorderi',
             image: './img/car_jacks.svg',
-            htmlPage: "saldatrice.html"
+            htmlPage: "rakorderi.html"
         },
         {
-            name: 'Kompresore',
+            name: 'Pinca',
             image: './img/lifting_equipment.svg',
-            htmlPage: "kompresore.html"
-        },
-        {
-            name: 'Instrumenta mates',
-            image: './img/car_jacks.svg',
-            htmlPage: "instrumenta_mates.html"
-        },
-        {
-            name: 'Pinca/mekanika',
-            image: './img/lifting_equipment.svg'    ,
             htmlPage: "pinca.html"
         },
         {
-            name: 'Industria',
-            image: './img/lifting_equipment.svg',
-            htmlPage: "industria.html"
+            name: 'Dare',
+            image: './img/car_jacks.svg',
+            htmlPage: "dare.html"
         },
         {
-            name: 'Vegla dore',
+            name: 'Gershere',
+            image: './img/lifting_equipment.svg'    ,
+            htmlPage: "gershere.html"
+        },
+        {
+            name: 'Buloneri',
+            image: './img/lifting_equipment.svg',
+            htmlPage: "buloneri.html"
+        },
+        {
+            name: 'Force',
             image: './img/car_jacks.svg',
-            htmlPage: "vegla_dore.html"
+            htmlPage: "force.html"
         }
     ]
     const categoriesElement = document.getElementById('categories');

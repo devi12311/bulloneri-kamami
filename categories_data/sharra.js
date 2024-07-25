@@ -1,43 +1,38 @@
 (function () {
     const items = [
         {
-            "name": "Trapan 1",
-            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/DA001GM101.jpg",
+            "name": "Sharra 1",
+            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/4326.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 2",
-            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/6413.jpg",
+            "name": "Sharra 2",
+            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/5008MG.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 3",
-            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/DDF453SYE.jpg",
+            "name": "Sharra 3",
+            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/DHS710Z.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 4",
-            "image": "https://ronixtools.com/img/media/products/2210/modeling-638064227236621993.webp",
+            "name": "Sharra 4",
+            "image": "https://ronixtools.com/img/media/products/5901/modeling-638029189701018606.webp",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 5",
-            "image": "https://ronixtools.com/img/media/products/8014/modeling-637484222477821336.webp",
+            "name": "Sharra 5",
+            "image": "https://ronixtools.com/img/media/products/5901/original-638029190421055444.webp",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 6",
-            "image": "https://ronixtools.com/img/media/products/8014/original-637627389635261608.webp",
+            "name": "Sharra 6",
+            "image": "https://ronixtools.com/img/media/products/5901/original-638029191099965823.webp",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 7",
-            "image": "https://ronixtools.com/img/media/products/2210/original-637483821059703288.webp",
-            "price": "L 23,000.00"
-        },
-        {
-            "name": "Trapan 8",
-            "image": "https://shopic.mcmcclass.com/9180dfad6fe14b01932fd5bd1bfa2f45/20240626/image/1123254886167750523/YT-8277915.jpg",
+            "name": "Sharra 7",
+            "image": "https://shopic.mcmcclass.com/9180dfad6fe14b01932fd5bd1bfa2f45/20240628/image/1124017234176397227/YT-8281185.jpg",
             "price": "L 23,000.00"
         },
     ]

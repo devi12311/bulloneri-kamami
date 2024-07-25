@@ -1,43 +1,33 @@
 (function () {
     const items = [
         {
-            "name": "Trapan 1",
-            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/DA001GM101.jpg",
+            "name": "Zmerilues 1",
+            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/9046.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 2",
-            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/6413.jpg",
+            "name": "Zmerilues 2",
+            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/BO4555.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 3",
-            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/DDF453SYE.jpg",
+            "name": "Zmerilues 3",
+            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/9404.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 4",
-            "image": "https://ronixtools.com/img/media/products/2210/modeling-638064227236621993.webp",
+            "name": "Zmerilues 4",
+            "image": "https://ronixtools.com/img/media/products/6401/modeling-638120414672695633.webp",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 5",
-            "image": "https://ronixtools.com/img/media/products/8014/modeling-637484222477821336.webp",
+            "name": "Zmerilues 5",
+            "image": "https://ronixtools.com/img/media/products/6401/original-638120416402544909.webp",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 6",
-            "image": "https://ronixtools.com/img/media/products/8014/original-637627389635261608.webp",
-            "price": "L 23,000.00"
-        },
-        {
-            "name": "Trapan 7",
-            "image": "https://ronixtools.com/img/media/products/2210/original-637483821059703288.webp",
-            "price": "L 23,000.00"
-        },
-        {
-            "name": "Trapan 8",
-            "image": "https://shopic.mcmcclass.com/9180dfad6fe14b01932fd5bd1bfa2f45/20240626/image/1123254886167750523/YT-8277915.jpg",
+            "name": "Zmerilues 6",
+            "image": "https://ronixtools.com/img/media/products/6401/original-638120416402544909.webp",
             "price": "L 23,000.00"
         },
     ]

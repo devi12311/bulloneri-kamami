@@ -1,43 +1,53 @@
 (function () {
     const items = [
         {
-            "name": "Trapan 1",
-            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/DA001GM101.jpg",
+            "name": "Koka kriketi 1",
+            "image": "https://www.forcetools.co.za/wp-content/uploads/2018/11/34805516T-web-2.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 2",
-            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/6413.jpg",
+            "name": "Koka kriketi 2",
+            "image": "https://www.forcetools.co.za/wp-content/uploads/2024/05/24606050-web.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 3",
-            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/DDF453SYE.jpg",
+            "name": "Koka kriketi 3",
+            "image": "https://herramientasferreteria.cl/wp-content/uploads/2024/01/image_676.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 4",
-            "image": "https://ronixtools.com/img/media/products/2210/modeling-638064227236621993.webp",
+            "name": "Celsa 1",
+            "image": "https://www.forcetools.co.za/wp-content/uploads/2020/03/5116-web.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 5",
-            "image": "https://ronixtools.com/img/media/products/8014/modeling-637484222477821336.webp",
+            "name": "Celsa 2",
+            "image": "https://www.megateksa.com/media/catalog/product/cache/fbb2dc43818756b056bd8caf729c2982/1/7/17683_1.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 6",
-            "image": "https://ronixtools.com/img/media/products/8014/original-637627389635261608.webp",
+            "name": "Celsa 3",
+            "image": "https://m.media-amazon.com/images/I/51+gCxl7OGL._AC_.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 7",
-            "image": "https://ronixtools.com/img/media/products/2210/original-637483821059703288.webp",
+            "name": "Ekstrator 1",
+            "image": "https://www.electrotools.gr/1995-large_default/force-extractor-6590108.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 8",
-            "image": "https://shopic.mcmcclass.com/9180dfad6fe14b01932fd5bd1bfa2f45/20240626/image/1123254886167750523/YT-8277915.jpg",
+            "name": "Ekstrator 2",
+            "image": "https://www.forcetools.co.za/wp-content/uploads/2018/10/628E46-web.jpg",
+            "price": "L 23,000.00"
+        },
+        {
+            "name": "Adaptor 1",
+            "image": "https://www.megateksa.com/media/catalog/product/cache/fbb2dc43818756b056bd8caf729c2982/1/2/12796_1.jpg",
+            "price": "L 23,000.00"
+        },
+        {
+            "name": "Adaptor 2",
+            "image": "https://cdn11.bigcommerce.com/s-xsnp47c4d3/images/stencil/960w/products/8302/27039/80964mpb_2___93143.1698660244.png",
             "price": "L 23,000.00"
         },
     ]

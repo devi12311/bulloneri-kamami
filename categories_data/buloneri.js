@@ -1,43 +1,43 @@
 (function () {
     const items = [
         {
-            "name": "Trapan 1",
-            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/DA001GM101.jpg",
+            "name": "Bulon i zi 1",
+            "image": "https://i.ebayimg.com/images/g/IxUAAOSwfrJkVUOW/s-l1600.webp",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 2",
-            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/6413.jpg",
+            "name": "Bulon i zi 2",
+            "image": "https://gpmsurplus.com/wp-content/uploads/2023/03/P1290332-scaled-247x296.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 3",
-            "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/DDF453SYE.jpg",
+            "name": "Bulon i zi 3",
+            "image": "https://i.ebayimg.com/images/g/WU8AAOSw14NkxTWM/s-l1600.webp",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 4",
-            "image": "https://ronixtools.com/img/media/products/2210/modeling-638064227236621993.webp",
+            "name": "Bulon i bardhe 1",
+            "image": "https://www.megateksa.com/media/catalog/product/cache/fbb2dc43818756b056bd8caf729c2982/4/7/47192_1.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 5",
-            "image": "https://ronixtools.com/img/media/products/8014/modeling-637484222477821336.webp",
+            "name": "Bulon i bardhe 2",
+            "image": "https://www.megateksa-ks.com/media/catalog/category/Bullona_inoksi.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 6",
-            "image": "https://ronixtools.com/img/media/products/8014/original-637627389635261608.webp",
+            "name": "Dado",
+            "image": "https://scontent.ftia8-1.fna.fbcdn.net/v/t1.6435-9/172521224_1157340554715489_7733923381201053948_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7b2446&_nc_ohc=ML3j90UC8y0Q7kNvgHCOkr5&_nc_ht=scontent.ftia8-1.fna&oh=00_AYB5goJS2BxS-kstO9rvL2cvQbfEaH5oAemZGD9llDJo5g&oe=66C1A959",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 7",
-            "image": "https://ronixtools.com/img/media/products/2210/original-637483821059703288.webp",
+            "name": "Rondele",
+            "image": "https://www.megateksa.com/media/catalog/category/Rondele_e_trashe.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Trapan 8",
-            "image": "https://shopic.mcmcclass.com/9180dfad6fe14b01932fd5bd1bfa2f45/20240626/image/1123254886167750523/YT-8277915.jpg",
+            "name": "Vida",
+            "image": "https://www.megateksa-ks.com/media/catalog/category/Vida_vetefiletuese_celiku.jpg \n",
             "price": "L 23,000.00"
         },
     ]
