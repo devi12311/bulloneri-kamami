@@ -1,6 +1,6 @@
 // Framework grid generation
 //
-// Used only by Bootstrap to generate the correct number of grid classes given
+// Used only  Bootstrap to generate the correct number of grid classes given
 // any value of `$grid-columns`.
 
 @mixin make-grid-columns($columns: $grid-columns, $gutter: $grid-gutter-width, $breakpoints: $grid-breakpoints) {
@@ -66,7 +66,7 @@
       }
 
       @if $columns > 0 {
-        // `$columns - 1` because offsetting by the width of an entire row isn't possible
+        // `$columns - 1` because offsetting  the width of an entire row isn't possible
         @for $i from 0 through ($columns - 1) {
           @if not ($infix == "" and $i == 0) { // Avoid emitting useless .offset-0
             .offset#{$infix}-#{$i} {

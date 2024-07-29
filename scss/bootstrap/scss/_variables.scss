@@ -98,7 +98,7 @@ $yiq-contrasted-threshold:  150 !default;
 $yiq-text-dark:             $gray-900 !default;
 $yiq-text-light:            $white !default;
 
-// Characters which are escaped by the escape-svg function
+// Characters which are escaped  the escape-svg function
 $escaped-characters: (
   ("<", "%3c"),
   (">", "%3e"),
@@ -110,7 +110,7 @@ $escaped-characters: (
 
 // Options
 //
-// Quickly modify global styling by enabling or disabling optional features.
+// Quickly modify global styling  enabling or disabling optional features.
 
 $enable-caret:                                true !default;
 $enable-rounded:                              true !default;
@@ -129,7 +129,7 @@ $enable-deprecation-messages:                 true !default;
 
 // Spacing
 //
-// Control the default styling of most Bootstrap elements by modifying these
+// Control the default styling of most Bootstrap elements  modifying these
 // variables. Mostly focused on spacing.
 // You can add more entries to the $spacers map, should you need more variation.
 
@@ -680,7 +680,7 @@ $form-validation-states: map-merge(
 // Z-index master list
 //
 // Warning: Avoid customizing these values. They're used for a bird's eye view
-// of components dependent on the z-axis and are designed to all work together.
+// of components dependent on the z-axis and are  to all work together.
 
 $zindex-dropdown:                   1000 !default;
 $zindex-sticky:                     1020 !default;
