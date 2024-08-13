@@ -1,17 +1,17 @@
 (function () {
     const items = [
         {
-            "name": "Punto 1",
+            "name": "Punto Makita sds max betoni 4 koka",
             "image": "https://si.makitamedia.com/images/1_makita/102_accessories/10204_JPG_Product/P-17077.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Punto 2",
+            "name": "Punto Makita sds max betoni 2 koka",
             "image": "https://si.makitamedia.com/images/1_makita/102_accessories/10204_JPG_Product/D-33875.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Punto 3",
+            "name": "Punto Makita sds plus betoni",
             "image": "https://si.makitamedia.com/images/1_makita/102_accessories/10204_JPG_Product/B-14613.jpg",
             "price": "L 23,000.00"
         },
@@ -30,14 +30,7 @@
                                 <div class="d-flex align-items-center justify-content-center mt-2">
                                     <!--<h5>${items[i].price}</h5><h6 class="text-muted ml-2"></h6>-->
                                 </div>
-                                <div class="d-flex align-items-center justify-content-center mb-1">
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small>(99)</small>
-                                </div>
+                                
                             </div>
                         </div>
                         </div>

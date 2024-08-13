@@ -1,27 +1,27 @@
 (function () {
     const items = [
         {
-            "name": "Zmerilues 1",
+            "name": "Zmerilues Makita Orbital",
             "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/9046.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Zmerilues 2",
+            "name": "Zmerilues Makita 220W 112x102mm",
             "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/BO4555.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Zmerilues 3",
+            "name": "Zmerilues Makita 4x24 inch",
             "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/9404.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Zmerilues 4",
+            "name": "Zmerilues Ronix Orbital elektrik 320W",
             "image": "https://ronixtools.com/img/media/products/6401/modeling-638120414672695633.webp",
             "price": "L 23,000.00"
         },
         {
-            "name": "Zmerilues 5",
+            "name": "Zmerilues Ronix 300W",
             "image": "https://ronixtools.com/img/media/products/6401/original-638120416402544909.webp",
             "price": "L 23,000.00"
         },
@@ -45,14 +45,7 @@
                                 <div class="d-flex align-items-center justify-content-center mt-2">
                                     <!--<h5>${items[i].price}</h5><h6 class="text-muted ml-2"></h6>-->
                                 </div>
-                                <div class="d-flex align-items-center justify-content-center mb-1">
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small>(99)</small>
-                                </div>
+                                
                             </div>
                         </div>
                         </div>

@@ -1,17 +1,17 @@
 (function () {
     const items = [
         {
-            "name": "Disk preres 1",
+            "name": "Disk preres Makita 76x1.0x10mm",
             "image": "https://si.makitamedia.com/images/1_makita/102_accessories/10204_JPG_Product/D-74815-5.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Disk preres 2",
+            "name": "Disk preres Makita 100x1.2mm",
             "image": "https://si.makitamedia.com/images/1_makita/102_accessories/10204_JPG_Product/E-10724.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Disk preres 3",
+            "name": "Disk preres Makita 355x4.3x25.4mm",
             "image": "https://si.makitamedia.com/images/1_makita/102_accessories/10204_JPG_Product/E-12790-5.jpg",
             "price": "L 23,000.00"
         },
@@ -30,14 +30,7 @@
                                 <div class="d-flex align-items-center justify-content-center mt-2">
                                     <!--<h5>${items[i].price}</h5><h6 class="text-muted ml-2"></h6>-->
                                 </div>
-                                <div class="d-flex align-items-center justify-content-center mb-1">
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small>(99)</small>
-                                </div>
+                                
                             </div>
                         </div>
                         </div>

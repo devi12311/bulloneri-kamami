@@ -1,27 +1,27 @@
 (function () {
     const items = [
         {
-            "name": "Bulon i zi 1",
+            "name": "Bullon I zi 10x30",
             "image": "https://i.ebayimg.com/images/g/IxUAAOSwfrJkVUOW/s-l1600.webp",
             "price": "L 23,000.00"
         },
         {
-            "name": "Bulon i zi 2",
+            "name": "Bullon I zi 18x180x1.5",
             "image": "https://gpmsurplus.com/wp-content/uploads/2023/03/P1290332-scaled-247x296.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Bulon i zi 3",
+            "name": "Bullon I zi 16x180x1.5",
             "image": "https://i.ebayimg.com/images/g/WU8AAOSw14NkxTWM/s-l1600.webp",
             "price": "L 23,000.00"
         },
         {
-            "name": "Bulon i bardhe 1",
+            "name": "Bullon I bardhe 8x30",
             "image": "https://www.megateksa.com/media/catalog/product/cache/fbb2dc43818756b056bd8caf729c2982/4/7/47192_1.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Bulon i bardhe 2",
+            "name": "Bullona rondele dhe vida te ndryshme",
             "image": "https://www.megateksa-ks.com/media/catalog/category/Bullona_inoksi.jpg",
             "price": "L 23,000.00"
         },
@@ -55,14 +55,7 @@
                                 <div class="d-flex align-items-center justify-content-center mt-2">
                                     <!--<h5>${items[i].price}</h5><h6 class="text-muted ml-2"></h6>-->
                                 </div>
-                                <div class="d-flex align-items-center justify-content-center mb-1">
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small>(99)</small>
-                                </div>
+                                
                             </div>
                         </div>
                         </div>

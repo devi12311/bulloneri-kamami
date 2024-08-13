@@ -1,52 +1,52 @@
 (function () {
     const items = [
         {
-            "name": "Koka kriketi 1",
+            "name": "Koka kriketi Force te bardhe",
             "image": "https://www.forcetools.co.za/wp-content/uploads/2018/11/34805516T-web-2.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Koka kriketi 2",
+            "name": "Koka kriketi Force te zi",
             "image": "https://www.forcetools.co.za/wp-content/uploads/2024/05/24606050-web.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Koka kriketi 3",
+            "name": "Koka kriketi Force",
             "image": "https://herramientasferreteria.cl/wp-content/uploads/2024/01/image_676.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Celsa 1",
+            "name": "Celes Force hexagonal",
             "image": "https://www.forcetools.co.za/wp-content/uploads/2020/03/5116-web.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Celsa 2",
+            "name": "Celes Force I thjesht",
             "image": "https://www.megateksa.com/media/catalog/product/cache/fbb2dc43818756b056bd8caf729c2982/1/7/17683_1.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Celsa 3",
+            "name": "Celes Yato set",
             "image": "https://m.media-amazon.com/images/I/51+gCxl7OGL._AC_.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Ekstrator 1",
+            "name": "Ekstrator Force",
             "image": "https://www.electrotools.gr/1995-large_default/force-extractor-6590108.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Ekstrator 2",
+            "name": "Adaptor Force te bardhe",
             "image": "https://www.forcetools.co.za/wp-content/uploads/2018/10/628E46-web.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Adaptor 1",
+            "name": "Adaptor Force te zi",
             "image": "https://www.megateksa.com/media/catalog/product/cache/fbb2dc43818756b056bd8caf729c2982/1/2/12796_1.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Adaptor 2",
+            "name": "Adaptor Force te zi",
             "image": "https://cdn11.bigcommerce.com/s-xsnp47c4d3/images/stencil/960w/products/8302/27039/80964mpb_2___93143.1698660244.png",
             "price": "L 23,000.00"
         },
@@ -65,14 +65,7 @@
                                 <div class="d-flex align-items-center justify-content-center mt-2">
                                     <!--<h5>${items[i].price}</h5><h6 class="text-muted ml-2"></h6>-->
                                 </div>
-                                <div class="d-flex align-items-center justify-content-center mb-1">
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small>(99)</small>
-                                </div>
+                                
                             </div>
                         </div>
                         </div>

@@ -1,37 +1,37 @@
 (function () {
     const items = [
         {
-            "name": "Sharra 1",
+            "name": "Sharre Makita 450W 500",
             "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/4326.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Sharra 2",
+            "name": "Sharre Makita 240V 210mm",
             "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/5008MG.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Sharra 3",
+            "name": "Sharre Makita 36V 190mm",
             "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/DHS710Z.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Sharra 4",
+            "name": "Sharre Ronix 2300W 355mm",
             "image": "https://ronixtools.com/img/media/products/5901/modeling-638029189701018606.webp",
             "price": "L 23,000.00"
         },
         {
-            "name": "Sharra 5",
+            "name": "Sharre Ronix 220V 365mm",
             "image": "https://ronixtools.com/img/media/products/5901/original-638029190421055444.webp",
             "price": "L 23,000.00"
         },
         {
-            "name": "Sharra 6",
+            "name": "Sharre Ronix 2000W 355mm",
             "image": "https://ronixtools.com/img/media/products/5901/original-638029191099965823.webp",
             "price": "L 23,000.00"
         },
         {
-            "name": "Sharra 7",
+            "name": "Sharre Yato 230V 185mm",
             "image": "https://shopic.mcmcclass.com/9180dfad6fe14b01932fd5bd1bfa2f45/20240628/image/1124017234176397227/YT-8281185.jpg",
             "price": "L 23,000.00"
         },
@@ -50,14 +50,7 @@
                                 <div class="d-flex align-items-center justify-content-center mt-2">
                                     <!--<h5>${items[i].price}</h5><h6 class="text-muted ml-2"></h6>-->
                                 </div>
-                                <div class="d-flex align-items-center justify-content-center mb-1">
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small>(99)</small>
-                                </div>
+                                
                             </div>
                         </div>
                         </div>

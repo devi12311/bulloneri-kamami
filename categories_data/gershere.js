@@ -1,22 +1,22 @@
 (function () {
     const items = [
         {
-            "name": "Gershere 1",
+            "name": "Gershere profesionale Knipex",
             "image": "https://toolsmarket.al/wp-content/uploads/2024/02/IM0004960.png",
             "price": "L 23,000.00"
         },
         {
-            "name": "Gershere 2",
+            "name": "Gershere Knipex 7 1/4",
             "image": "https://toolsmarket.al/wp-content/uploads/2024/02/9010185-00-3.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Gershere 3",
+            "name": "Gershere Knipex 8 1/4",
             "image": "https://toolsmarket.al/wp-content/uploads/2024/02/9010185-00-F-A-02.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Gershere 4",
+            "name": "Gershere profesionale Knipex",
             "image": "https://toolsmarket.al/wp-content/uploads/2024/02/IM0006152.webp",
             "price": "L 23,000.00"
         },
@@ -35,14 +35,7 @@
                                 <div class="d-flex align-items-center justify-content-center mt-2">
                                     <!--<h5>${items[i].price}</h5><h6 class="text-muted ml-2"></h6>-->
                                 </div>
-                                <div class="d-flex align-items-center justify-content-center mb-1">
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small>(99)</small>
-                                </div>
+                                
                             </div>
                         </div>
                         </div>

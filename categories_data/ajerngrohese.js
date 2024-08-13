@@ -1,12 +1,12 @@
 (function () {
     const items = [
         {
-            "name": "1",
+            "name": "Ajerngrohese Makita set",
             "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/HG6531CK.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "2",
+            "name": "Ajerngrohese Makita 2000W",
             "image": "https://si.makitamedia.com/images/1_makita/101_machines/10104_JPG_Product/HG6030K.jpg",
             "price": "L 23,000.00"
         },
@@ -26,14 +26,7 @@
                                 <div class="d-flex align-items-center justify-content-center mt-2">
                                     <!--<h5>${items[i].price}</h5><h6 class="text-muted ml-2"></h6>-->
                                 </div>
-                                <div class="d-flex align-items-center justify-content-center mb-1">
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small>(99)</small>
-                                </div>
+                                
                             </div>
                         </div>
                         </div>

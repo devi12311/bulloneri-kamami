@@ -1,22 +1,22 @@
 (function () {
     const items = [
         {
-            "name": "Dare 1",
+            "name": "Dare Knipex 210mm",
             "image": "https://toolsmarket.al/wp-content/uploads/2024/02/IM0013707.webp",
             "price": "L 23,000.00"
         },
         {
-            "name": "Dare 2",
+            "name": "Dare Knipex 280mm",
             "image": "https://toolsmarket.al/wp-content/uploads/2022/07/IM0007044.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Dare 3",
+            "name": "Dare Knipex 255mm",
             "image": "https://toolsmarket.al/wp-content/uploads/2022/07/IM0004628.jpg",
             "price": "L 23,000.00"
         },
         {
-            "name": "Dare 4",
+            "name": "Dare Knipex 225mm",
             "image": "https://toolsmarket.al/wp-content/uploads/2024/02/IM0004637.png \n",
             "price": "L 23,000.00"
         },
@@ -35,14 +35,7 @@
                                 <div class="d-flex align-items-center justify-content-center mt-2">
                                     <!--<h5>${items[i].price}</h5><h6 class="text-muted ml-2"></h6>-->
                                 </div>
-                                <div class="d-flex align-items-center justify-content-center mb-1">
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small class="fa fa-star text-primary mr-1"></small>
-                                    <small>(99)</small>
-                                </div>
+                                
                             </div>
                         </div>
                         </div>
